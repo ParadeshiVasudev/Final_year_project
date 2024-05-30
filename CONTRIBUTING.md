@@ -1,0 +1,1 @@
+# [See the contribution guidelines](https://tri-amdd.github.io/beep/contributing/)
